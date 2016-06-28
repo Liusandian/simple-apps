@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-	int n,m,i,tem1=1,tem2=1;
+int n,m,i,tem1=1,tem2=1;
 	cin>>n;
 	if(n<3) 
 	{
